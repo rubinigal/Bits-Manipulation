@@ -1,0 +1,18 @@
+please enter a positive number
+please enter how many binary spaces u want your number to move(positive number is to the right and negative to the left)
+your number in decimal
+8319
+your number in binary
+00000000000000000010000001111111
+your number in octal
+20177
+your number in hexadecimal
+207f
+your new number in decimal
+266338308
+your new number in binary
+00001111111000000000000000000100
+your new number in octal
+1770000004
+your new number in hexadecimal
+fe00004
